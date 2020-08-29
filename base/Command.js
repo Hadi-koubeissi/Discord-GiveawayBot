@@ -4,7 +4,7 @@ class Command {
       description = false,
       usage = false,
       enabled = true,
-      aliases = new Array(),
+      aliases = new Array()
       permission = false,
       botpermissions = new Array(),
       examples = false,
